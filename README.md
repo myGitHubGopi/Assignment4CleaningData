@@ -1,4 +1,4 @@
-# Assignment4CleaningData
+# Assignment Getting and Cleaning Data
 Coursera Assignment on Getting and Cleaning Data
 First, download and unzip the data file into your R working directory.
 Second, download the R source code into your R working directory.
